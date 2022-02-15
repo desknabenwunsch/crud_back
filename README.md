@@ -9,14 +9,14 @@ _Pequeño ejercicio de la elaboración de un crud con .Net core 6_
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [EntityFramework](https://docs.microsoft.com/en-us/ef/) _6.0.2_
-	* **EntityFrameworkCore* 
-	* **EntityFrameworkCore.Design* 
-	* **EntityFrameworkCore.SqlServer* 
-	* **EntityFrameworkCore.Tools* 
+	* **EntityFrameworkCore**
+	* **EntityFrameworkCore.Design**
+	* **EntityFrameworkCore.SqlServer**
+	* **EntityFrameworkCore.Tools**
 * [AspNet.WebApi](https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api) _5.2.7_
 	* **AspNet.WebApi.Cors**
 * [Web.CodeGeneration](https://www.nuget.org/packages/Microsoft.VisualStudio.Web.CodeGeneration/) _6.0.2_
-	* **Web.CodeGeneration.Design* 
+	* **Web.CodeGeneration.Design**
 
 
 ## Autores ✒️
@@ -25,7 +25,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * **Manuel Läuft** - *Trabajo Inicial* - [desknabenwunsch](https://github.com/desknabenwunsch)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/desknabenwunsch/crud_back/graphs/contributors) quíenes han participado en este proyecto. 
 
 
 
